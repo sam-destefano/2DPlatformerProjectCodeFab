@@ -384,7 +384,7 @@ MonoBehaviour:
   numberOfUses: 1
   requiredEnabled: []
   drawTriggerArea: 1
-  drawTriggerLines: 1
+  drawTriggerLines: 0
   triggerAreaColor: {r: 0, g: 1, b: 0, a: 0.5}
   consoleLogOnTrigger: 0
 --- !u!61 &115732736
@@ -3048,11 +3048,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4531612659806939438, guid: 6af5c60d70ba64fb2bb4eec222684a40, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 150.3
+      value: -0.09
       objectReference: {fileID: 0}
     - target: {fileID: 4531612659806939438, guid: 6af5c60d70ba64fb2bb4eec222684a40, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -14.2
+      value: -0.11
       objectReference: {fileID: 0}
     - target: {fileID: 4531612659806939438, guid: 6af5c60d70ba64fb2bb4eec222684a40, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3858,7 +3858,7 @@ MonoBehaviour:
   numberOfUses: 1
   requiredEnabled: []
   drawTriggerArea: 1
-  drawTriggerLines: 1
+  drawTriggerLines: 0
   triggerAreaColor: {r: 0, g: 1, b: 0, a: 0.5}
   consoleLogOnTrigger: 0
 --- !u!61 &1479876614
@@ -4606,7 +4606,7 @@ MonoBehaviour:
   numberOfUses: 1
   requiredEnabled: []
   drawTriggerArea: 1
-  drawTriggerLines: 1
+  drawTriggerLines: 0
   triggerAreaColor: {r: 0, g: 1, b: 0, a: 0.5}
   consoleLogOnTrigger: 0
 --- !u!61 &1826143375

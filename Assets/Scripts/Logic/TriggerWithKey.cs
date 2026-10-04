@@ -30,11 +30,13 @@ public class TriggerWithKey : MonoBehaviour
                 keyPressEvent.Invoke();
                 if(consoleLogOnTrigger) Debug.Log("Key Trigger press activated: " + gameObject.name);
             }
+            ///*
             if(Input.GetKeyUp(keyToTrigger) || Input.GetKeyUp(GetGamepadButton()))
             {
                 keyReleaseEvent.Invoke();
                 if(consoleLogOnTrigger) Debug.Log("Key Trigger release activated: " + gameObject.name);
             }
+            //*/
         }
     }
 
