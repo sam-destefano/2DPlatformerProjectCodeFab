@@ -689,6 +689,31 @@ public class PlayerController : MonoBehaviour
         jumpsSinceGroundTouch = 0;
     }
 
+    /*THESE TWO FUNCTIONS ARE TOTALLY NEW*/
+    public void setPlayerSpeed(float amount = 16)
+    {
+        groundMovementValues.moveAcceleration = amount * 2.5f;
+        groundMovementValues.maxSpeed = amount;
+
+        airMovementValues.moveAcceleration = amount * 2.5f;
+        airMovementValues.maxSpeed = amount;
+
+        wallMovementValues.moveAcceleration = amount * 2.5f;
+        wallMovementValues.maxSpeed = amount;
+    }
+
+    public void resetPlayerSpeed()
+    {
+        groundMovementValues.moveAcceleration = 40f;
+        groundMovementValues.maxSpeed = 16f;
+
+        airMovementValues.moveAcceleration = 40f;
+        airMovementValues.maxSpeed = 16f;
+
+        wallMovementValues.moveAcceleration = 40f;
+        wallMovementValues.maxSpeed = 16f;
+    }
+
     void OnDrawGizmos()
     {
         // Draw line at deathHeight
