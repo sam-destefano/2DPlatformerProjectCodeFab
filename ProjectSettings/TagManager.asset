@@ -6,6 +6,7 @@ TagManager:
   tags:
   - PhysicsObject
   - StorageSphere
+  - CompanionBall
   layers:
   - Default
   - TransparentFX

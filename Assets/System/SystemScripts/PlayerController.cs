@@ -714,6 +714,7 @@ public class PlayerController : MonoBehaviour
         wallMovementValues.maxSpeed = 16f;
     }
 
+
     void OnDrawGizmos()
     {
         // Draw line at deathHeight
