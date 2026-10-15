@@ -1,0 +1,5655 @@
+fileFormatVersion: 2
+guid: 887e83ee1c9e6d54abfc43d566d8299f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7195818648506589901
+    second: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_0
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 3240
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2ed5c8feeacd360800000000000000
+      internalID: 7195818648506589901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_1
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 3240
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77316a84f644ab4fbf9b6778c8147d5
+      internalID: -283335432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_2
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 3240
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82dffe347ca1d51458df7e7a37eeff37
+      internalID: 1169527997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_3
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 3240
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa65a6bb135b83048985c29f5a5b219b
+      internalID: -1683689850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_4
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 3240
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84f4cd5676a391489d4bbe459624f6d
+      internalID: -849541414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_5
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 3240
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caa725a488e71f4fb6facb1c5c9cde1
+      internalID: 2028203834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_6
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 3240
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5b62f0ba853e441a8299a6344c5075
+      internalID: -1991921934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_7
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 3240
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d8918def6e707449de659151498deb
+      internalID: -94505037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_8
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 3240
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0581bad79e565044081a7e2e249d1f43
+      internalID: -1965818717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_9
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 3240
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975b6870984f6614faed3ce68ca796cd
+      internalID: -1814173889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 3104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fc35c0f08e31b48952c940e8376d66
+      internalID: -1514145925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_11
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 3104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c3e8bd83e5b69498244a033c015684
+      internalID: 757248045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_12
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 3104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6524c960a25034a438592b9cc9669728
+      internalID: -217265881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_13
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 3104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc223d034dd96b6478f62e3858436d9a
+      internalID: 914728195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_14
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 3104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231d23f3d27d0e64bb1f94c5c2cb6870
+      internalID: 18545004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_15
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 3104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eed27ed3c178a5499b842a09e67d044
+      internalID: -2058522400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_16
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 3104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2972a5e310f494abda1a38f2327690
+      internalID: 1346930485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_17
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 3104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5089604355a9eca4b85f64604b595da8
+      internalID: 476658679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_18
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 3104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2173486681ae2ae4c9f85f6a2b2a51a0
+      internalID: 1978471788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_19
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 3104
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adcc7dc5f319c5429cbfc0ad320136b
+      internalID: 182014164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_20
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2968
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd464544b1b6814eaace187c80503bd
+      internalID: -1617945694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_21
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2968
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699bebef7ba603243bb9e702f7137024
+      internalID: -335751535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_22
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2968
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d36d306d1f516b4b8cd60cf61de94d9
+      internalID: -2061533439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_23
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2968
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683c014edc82ed04c807666d5cfe04b6
+      internalID: -1453581462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_24
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2968
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627dddb6b16915b4d9b897467dfcad45
+      internalID: -715414613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_25
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 2968
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9db2a10ac8f48c4a8553959988d048c
+      internalID: -826263977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_26
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 2968
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316db48d3935e9a4da9f7c0d0487e4b5
+      internalID: -391032795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_27
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 2968
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42eca68d882fdd47b88e100ac5843d9
+      internalID: -311741625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_28
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 2968
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bad4f32fa4fa8241bcf376259836bb2
+      internalID: 634142703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_29
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 2968
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9e483dd2382de45af74f4bae253e48
+      internalID: -420346949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_30
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedadc8402456254c9806053e7e1721b
+      internalID: -1397901938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_31
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b1c7ab5078ed54593dc622d6bc1a9b
+      internalID: -384036967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_32
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ee0ef31d6fbc749a8c2c1a7cf85c67
+      internalID: -1533816810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_33
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d14b2b4f7d4d8d46b4324243f283aba
+      internalID: -1188199481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_34
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf829af45c071a7458ab9f81afc25a29
+      internalID: -1470058575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_35
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 2832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d80e48ba28877e46becb8d9c99bb747
+      internalID: -1912532702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_36
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 2832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846f7308d25d46c4c923c9b505e8da6c
+      internalID: 1778668777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_37
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 2832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d844c70f5c25f4e9023f1ea13df10d
+      internalID: 718964820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_38
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 2832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6571b2c33ad9541a8570e6a973972d
+      internalID: -709963733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_39
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 2832
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7295be2cfdc6f4fae7091dc5630c05
+      internalID: -1803396456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_40
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca1e449578a4d449ad0d4a4b52940d6
+      internalID: 1837223088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_41
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2618720fc91ac41b3a9ccbb2a64768
+      internalID: 1302183379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_42
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e571d1ff8564e264a9803507ccd7e93e
+      internalID: -1702254304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_43
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a5a1f8808cfad4ab6a7a595ba54d51
+      internalID: 416555361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_44
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdb3c7845712384881f016ff42b8fae
+      internalID: -680977418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_45
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 2696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121691b28338cc64489b0836847379b0
+      internalID: 1758613977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_46
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 2696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7657b59f8cf16f4a85f10afac179340
+      internalID: 1748677913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_47
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 2696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce1fe4994db8cd4fa3f480626ff944a
+      internalID: 610233195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_48
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 2696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2392754057506ba4ba93863b653b6096
+      internalID: 1829597870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_49
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 2696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d42155cf2224f499665860d970a25c
+      internalID: -1050900700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_50
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef3b0c8bd1c2454ab59346cf022c73e
+      internalID: -1531721202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_51
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baa89f47c99f1e479f6288330df254e
+      internalID: 1762287306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_52
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba5070384fadfa489999f3cb8cd36e7
+      internalID: -1105247586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_53
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7f12b62cd02244194b388842f7435b
+      internalID: -150085529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_54
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62057bb9c59ce647b8633b60676dac4
+      internalID: 233291508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_55
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 2560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a76d97c14c0c954880453b09e7adfc1
+      internalID: -164940944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_56
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 2560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd48379cf06b8b449ec6d135e90fe26
+      internalID: -1613989124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_57
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 2560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c4fe9bf994a8e43ab61371b4bed33f
+      internalID: -1972063204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_58
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 2560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e17b28962954e649867dad4a2896100
+      internalID: 118358910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_59
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 2560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121183528ebb75444a840f423d9e3d33
+      internalID: 320546994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_60
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2424
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aad994e880a54d438a2c034a803ebfe
+      internalID: -345798416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_61
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2424
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18c035fb82bbd5468e901c8c278c76f
+      internalID: 667322677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_62
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2424
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a2ef459cc912545bb68bd56f87fed9
+      internalID: -263613567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_63
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2424
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0b381e57df7304a9863d925bc68c21
+      internalID: 1340533625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_64
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2424
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b9fc2e21f05f3468e058e421ee8ae0
+      internalID: -1249717216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_65
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 2424
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998910a88f89d8b45a4abb278b0e3ab4
+      internalID: 920818996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_66
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 2424
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd74e5acd6570740a7f35517e3db9cb
+      internalID: 2043265429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_67
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 2424
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89b632e2082ded45b950be487cdbe53
+      internalID: -2052048347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_68
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 2424
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fae7a759b8d784a8cd864e11d3c69a
+      internalID: 10814778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_69
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 2424
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a941154f1a8bd42b46f70d85e0f710
+      internalID: 503605354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_70
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2288
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079bb0f12c4aff94296d0d0aa858326b
+      internalID: 1827235314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_71
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2288
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d745630aefba39d4baeb1d1de4c399ee
+      internalID: 997835486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_72
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2288
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dddf978a5232864bac02470e639a1fe
+      internalID: 126581406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_73
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2288
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cec07f231e59574d954f26708a87f18
+      internalID: 1960064250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_74
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2288
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41787a2e0386a9c4f9bf22aac009a7d2
+      internalID: -1126614925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_75
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 2288
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8800fad7210877a4db00cdbba9a39c7f
+      internalID: -196257063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_76
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 2288
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0261c566c2e8b11459d9824209822c8d
+      internalID: -600704027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_77
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 2288
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4610f04a7f505489ee57befe96377f
+      internalID: 1835829929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_78
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 2288
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b2e3be26f450d49a763942f8decabe
+      internalID: -1953371664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_79
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 2288
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9181fb3a93353174f95a0acf9106381f
+      internalID: -1048091986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_80
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c4b745a7e98a94988d565d7d927185
+      internalID: 1607020444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_81
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53218ab863387364e84d8aa7ebfde768
+      internalID: 2135557999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_82
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275b0f527ca7dd049be6269b501bdfc6
+      internalID: 1594550613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_83
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9638b63c4a96a514ebb96f51ffa42432
+      internalID: -199539240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_84
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658d3bf6001696143b9240c5e4f637f8
+      internalID: 240653887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_85
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 2152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce151df4ef538b4581ace7c12bedeee
+      internalID: 1791384733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_86
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 2152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ed60c9910b5a74085a4830f3a98153
+      internalID: -344436121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_87
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 2152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d6e4e29bf24d34289fc70299ef2157
+      internalID: -960022157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_88
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 2152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0250a1a63e8614783026633118577e
+      internalID: -412525720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_89
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 2152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d94854bfcfc38f40a4a84983d512fb6
+      internalID: 741208617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_90
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2016
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6136c7994510d14c9608164ee738d01
+      internalID: -1019728787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_91
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2016
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e7ded8098442d479af831fdc632365
+      internalID: 1213403488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_92
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2016
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4112473edbdaf84295d2dd03012b559
+      internalID: 402351232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_93
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2016
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0f6e413b95ec146b6688a01bd25397
+      internalID: -1809486246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_94
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2016
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de64c84f16810c04cb1ba79fdef19d02
+      internalID: 1253639945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_95
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 2016
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7783c461aecccdf428a4332da1095cd7
+      internalID: -1134605639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_96
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 2016
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aebbf1baedf9bf48ab59a770424af22
+      internalID: 1735061179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_97
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 2016
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2d95e47ef380143b93a162c087a340
+      internalID: 227971442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_98
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 2016
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61071d7919602a459ed834942ef2723
+      internalID: -220710837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_99
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 2016
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95acca293af27646a841b482845292c
+      internalID: -332993866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_100
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c36c5a3364a99489000123df448203
+      internalID: 1060686825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_101
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5954999b1d5ab04eb9bb863f8e255e1
+      internalID: 1907659774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_102
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e7f40dfbf420045aedf14f787ec15b
+      internalID: -1687358084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_103
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a03e67b738e2e4fb4ec4d4748e5ed3
+      internalID: -1463796204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_104
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc9a12e2d1b2344c8e9e7231705071d
+      internalID: -154480582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_105
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a57a99a67c432547b09f80e7591e4b7
+      internalID: -1294927158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_106
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac51dcc0f3dcf134291e7332ca2d55ce
+      internalID: 2074386403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_107
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79e27cab7db1644880e29269f88b7ce
+      internalID: -1978343693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_108
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77feb2ddcf376ac40893d6fc8bf1cd89
+      internalID: 1590241719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_109
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1880
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57c7084318d1c041b1f87594d45fb41
+      internalID: 1782541347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_110
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ffd844147974c44ae244c51e41e3ce
+      internalID: 1459257824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_111
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2deccd2c1c39cb42a6f0332820c56bf
+      internalID: 179745535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_112
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b555ca5a367d054ca2b9e08193ccafa
+      internalID: 1180224691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_113
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2708121d1e739344a7a891c761e7a67
+      internalID: 530729095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_114
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551c6579f97cadd4eb2d7061d4c3cb2b
+      internalID: 1511919845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_115
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8127bb8839413f245bd419e652ebd11e
+      internalID: -1143860745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_116
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb61b37b5d523b4db38412813c3f21c
+      internalID: -243587152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_117
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6340bf322309f14cbe82435972e35c7
+      internalID: -32898229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_118
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0018cdd8f3e26d74e994ca02f55f9b26
+      internalID: -1750022250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_119
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1744
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c46d3c4456cbd47b3cd935582cde65
+      internalID: -1517217980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_120
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1608
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35327ba06f32d364eb36125251e65d7f
+      internalID: 974683970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_121
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1608
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e37cbc1cfa2c3f45bdf1a16498dc075
+      internalID: 2080667593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_122
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1608
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397516613554a25438b964d0be7d3ff3
+      internalID: 1483259008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_123
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1608
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b669f5ae5c16a2e40a5e06266ff935b8
+      internalID: -1897213844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_124
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1608
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b07f26af37b444297009ff2afeabfe
+      internalID: -2080853150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_125
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1608
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701cd310e0e79964b98f89e9999bb9e5
+      internalID: 1202785755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_126
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1608
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90923233a055994ba67da2b2c821013
+      internalID: 1926436729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_127
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1608
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4929a4b5eb933438aefcd8507d09e4
+      internalID: 1256620492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_128
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1608
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a159185ee2022745aa3013e9eaa751c
+      internalID: -335889075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_129
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1608
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dec80bcb617a964185bc632d974079b
+      internalID: 1363584099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_130
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1472
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be406462b991074ca9997e1bb99d670
+      internalID: -142252466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_131
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1472
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f70c421c0a2304984e801416b35e06
+      internalID: 501000869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_132
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1472
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd95c25c6b9cd64783674766865de0c
+      internalID: -1561882733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_133
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1472
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ee1b6e028412140aeb65ee59288145
+      internalID: -1793634280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_134
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1472
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29838efd5848ee444b47c980bbe7300e
+      internalID: -670342896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_135
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1472
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38329adb50a684a4583ea4af9eeaf538
+      internalID: 1262250586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_136
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1472
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651e1d8896f5cd9428a76dc78e7492e0
+      internalID: 1673464925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_137
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1472
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac8f0a017503324391688b6301e71a3
+      internalID: 1506818892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_138
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1472
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f255b9a745cc9d4889705849f1cc46b
+      internalID: -644408482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_139
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1472
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526d368c5ae1c9241b4605df5df934c8
+      internalID: -2072103724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_140
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a0633dc0e03bf4aa23d22606ef886c
+      internalID: 522693344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_141
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470e6c377f2e2e84392d2f286226da1d
+      internalID: 635284402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_142
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b5656b9f5387c43b3159df9fe2267f
+      internalID: 1124662779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_143
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c973f6d9975b2c8419111806817dc340
+      internalID: -680134504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_144
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e575ef90daaa14f9386be63a4160b5
+      internalID: 1118243339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_145
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e2ccfab3b1d404a9d9de9220f57401
+      internalID: 1311979871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_146
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5b659f73a60ca4dacf785cae53e07f
+      internalID: 78723927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_147
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dea0975f389cb74c9a524521a45b0af
+      internalID: -506951558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_148
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e8b7757263b414ebbcf1e09395d587
+      internalID: -957394169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_149
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1336
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220316b9b21ad4644b9fc9b7678a6cea
+      internalID: 112308899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_150
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1200
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a86496bfcb73ad499630afd6f607f05
+      internalID: -63642379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_151
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1200
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dd0ac4d18573948a790f98d909f743
+      internalID: -480394036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_152
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1200
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0535f99b94a6628419bb1d07e68cbf24
+      internalID: 690569706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_153
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1200
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3885d30787015f4fb3004f85be8f59c
+      internalID: 299794527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_154
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1200
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5bfb39727657e48915bf286c253d27
+      internalID: -280701407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_155
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1200
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a8f57176b66fa4da75ca8ecb3c727e
+      internalID: -851217005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_156
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1200
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803af0634fe88814d978fee83bc93eb3
+      internalID: -264215410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_157
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1200
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cb983d1bc01d64088b952c9fa37c96
+      internalID: -2138572989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_158
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1200
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a98de54aeea580428d75536ab7f695f
+      internalID: 1624236789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_159
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1200
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d47fa091f888c4e9e5522c72592c87
+      internalID: -1855393489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_160
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1064
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3069d9625c6e4743921939bc3e4c3f4
+      internalID: -1706882130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_161
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1064
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670f8d76441f3e94ba8334c6545ae007
+      internalID: 1858110144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_162
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1064
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc510d0607b84740b7e3f016f6d7907
+      internalID: 1799421619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_163
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1064
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cb581edfc8feb469c4220ee75e1a2f
+      internalID: -1184289435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_164
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1064
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4435978536bca9942b09204d9a73b4ad
+      internalID: -1023510676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_165
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1064
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa522f3707a2264db4387668ca9e846
+      internalID: -740281640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_166
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1064
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5357db906431e41bed243f4b0b6c9f
+      internalID: 21241597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_167
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1064
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4d4c4f97803064ea7f831d6bbfcef8
+      internalID: -1712581954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_168
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1064
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18beff082655509409f723882dc6ba36
+      internalID: -1219758523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_169
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1064
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4e632faa32ff24fb2993f80ed82dad
+      internalID: 1470770970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_170
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680b131bee671f04d8528dcaf54ba769
+      internalID: -41805674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_171
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06737ad9f525444d923360cf1903717
+      internalID: -2017674855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_172
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabd800d6682fd243afb4ed0350ae052
+      internalID: -2099496776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_173
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d4f3887b9d2ac42b474eedbbb35a8f
+      internalID: 528530372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_174
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353d49c7f5d727e40925f57ffed2365a
+      internalID: 1722215063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_175
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba8926c08fb48748b534e966f8aba11
+      internalID: 935991061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_176
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa358ed02f5e2842b94463f90ba5b45
+      internalID: 543932778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_177
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14f1aa7225198142beae7932d0e4e80
+      internalID: -80144303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_178
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee602b5c490a6b42ab26761b2d79ba5
+      internalID: -40270838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_179
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 928
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175d1425690e09b4599f257511a407b0
+      internalID: -41010589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_180
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ebd826a8ec1244ead7d10aa72a054e
+      internalID: 295038375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_181
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e472cc7d40d82374e87c9160cbc12458
+      internalID: -564224696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_182
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcae466a514394343b245842d28d7ffa
+      internalID: -124458624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_183
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3b4a9312a52c94290f83a298e8f064
+      internalID: -1715185589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_184
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1953087a47d884290b9fbb307b0b98
+      internalID: -1969271629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_185
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbb1e6e8c6f73f46b76c58a56deacfc
+      internalID: -1723055012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_186
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2786dc638171b774282d203ce0e1a02c
+      internalID: 1022242310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_187
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447cac119379fa04ca6fab905e350f4f
+      internalID: -1024804252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_188
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3595eb7c4687fa34eba6575eb99a5f41
+      internalID: 284868590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_189
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0727c5f48c157b42a2d6d97d0495493
+      internalID: -1573968792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_190
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 656
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa374acee87d500458545c0480dcd358
+      internalID: 453715949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_191
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 656
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8791f7d7ef2a1e45a4329e7f41ed5a2
+      internalID: 1661457431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_192
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 656
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4befa70d5562ead42abf6fe1156fbab3
+      internalID: 1927958978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_193
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 656
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6a809606ba6d54f9ebde98baf625e1
+      internalID: -425912152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_194
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 656
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea7a9fb23a924b4e873000ea0d58ef4
+      internalID: 214689688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_195
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 656
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7655d2f1c8b1d46853eb0a98dcc016
+      internalID: -2141858313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_196
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 656
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1af744af991a1498e8fac6a3024c81
+      internalID: -1747228121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_197
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 656
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccd8aea9f987c94ab8a1babd70152e9
+      internalID: 1917063522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_198
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 656
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1de33346c96a947b97e5fd3198cfdd
+      internalID: -2039462132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_199
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 656
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a4f5fde41190245b726de173b5fb89
+      internalID: -372664838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_200
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 520
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b67c5714a96a9544b71b19c09134082
+      internalID: -946740088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_201
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 520
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc42c0db924f404fbcf102e8b5da2a8
+      internalID: 86309339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_202
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 520
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad53bf9c29c429429cb59c09e4eabf6
+      internalID: 968778685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_203
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 520
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e29713ffcca384e83e34bd6b253a41
+      internalID: 1201555281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_204
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 520
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cd07bc226b5ba4fa45c54bed742efd
+      internalID: -163933049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_205
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 520
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4d71f6af3ee1444b224a9079867073
+      internalID: 567436150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_206
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 520
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae92d26f2c73dce4a87ee3506725482f
+      internalID: 749647188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_207
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 520
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327cca6e814a7f140bf607c64adbf1a9
+      internalID: -91491677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_208
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 520
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362c5aea17eafe94cb5013aa9223d731
+      internalID: 961114611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_209
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 520
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b779ce5be520c3246bbe8fd43838700a
+      internalID: -1098207588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_210
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac719f8434b6a74ca084dd753c3a786
+      internalID: -189566396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_211
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ad3012176a1df41953667aa8270694
+      internalID: 1943961504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_212
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef1b079073bbda4fa9885442087133d
+      internalID: -1251241385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_213
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1136be3f7044d4f90c528001cd2a68
+      internalID: 968285736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_214
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1735c5061b9af43a1713c362b6557a
+      internalID: 485224880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_215
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b08adaf18a2914f828b02745ca0b42
+      internalID: -2072894032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_216
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c409d3f7756cbba42890ab063e3fbd34
+      internalID: -649237302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_217
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e76beb9d880e04fac7cd76fa5d336f
+      internalID: 1753260200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_218
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd84f83aec578d947bcd8f5e1bbc8a53
+      internalID: 1888188349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_219
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8b6ca53b7df4a468487c905da67fcd
+      internalID: -66686224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_220
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 248
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21700b952c7d5e140b3817174728b0dd
+      internalID: -893884628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_221
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 248
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7775b1b15c52f7e4092764f04dff1fae
+      internalID: 1517927930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_222
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 248
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca746513ff17ae84ab6b60745ba49b55
+      internalID: -1076509812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_223
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 248
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28df22e8d96aea4185674cd3998cf96
+      internalID: 214505489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_224
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 248
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff9101151984f547bb829e01fe0e5f8
+      internalID: 71389285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_225
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 248
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bdaf803f6b4e44485696390bf8529e
+      internalID: -257025336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_226
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 248
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1022ed27881e091409f771ae62450546
+      internalID: -1832419397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_227
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 248
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4ab8ac20f6bce4cb0ce5b331170e68
+      internalID: -78530793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_228
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 248
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec42f7ab39ef22488d3fc10c56b0330
+      internalID: 19904119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_229
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 248
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1f3ded939ebf044a26567136845052
+      internalID: 1482039526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_230
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 112
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae4c9faf86a37546969921210f1a109
+      internalID: -1003658252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_231
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 112
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a152d7485836249a31f7ece3c123e5
+      internalID: 49664653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_232
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 112
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1627a399910953548b8e529c16bc6303
+      internalID: -1234544947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_233
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 112
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448ff8bd7513b02499a1306e543f6b17
+      internalID: 1361843971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_234
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 112
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7707fc4f5b910846bbafbce0c2186f9
+      internalID: -2025749730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_235
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 112
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0f2d00295a55c46866e9538e956b05
+      internalID: 337453853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_236
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 112
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170ac7e6228075e4993bb3692005d84e
+      internalID: -1249395200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_237
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 112
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9d7b0b8fde4de45b22b1c91fae077b
+      internalID: -1869194178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_238
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 112
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec581e2220b6320448eea244d6c12b3d
+      internalID: -286462835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_239
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 112
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569f02d0da249b243a77b75d60e680f5
+      internalID: -417449547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4e7f75171212e1945ba6d802753e8a01
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":255.0,"y":22.0},"gridSpritePadding":{"x":8.0,"y":8.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_0: 7195818648506589901
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_1: -283335432
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_10: -1514145925
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_100: 1060686825
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_101: 1907659774
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_102: -1687358084
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_103: -1463796204
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_104: -154480582
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_105: -1294927158
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_106: 2074386403
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_107: -1978343693
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_108: 1590241719
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_109: 1782541347
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_11: 757248045
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_110: 1459257824
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_111: 179745535
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_112: 1180224691
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_113: 530729095
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_114: 1511919845
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_115: -1143860745
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_116: -243587152
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_117: -32898229
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_118: -1750022250
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_119: -1517217980
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_12: -217265881
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_120: 974683970
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_121: 2080667593
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_122: 1483259008
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_123: -1897213844
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_124: -2080853150
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_125: 1202785755
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_126: 1926436729
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_127: 1256620492
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_128: -335889075
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_129: 1363584099
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_13: 914728195
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_130: -142252466
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_131: 501000869
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_132: -1561882733
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_133: -1793634280
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_134: -670342896
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_135: 1262250586
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_136: 1673464925
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_137: 1506818892
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_138: -644408482
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_139: -2072103724
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_14: 18545004
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_140: 522693344
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_141: 635284402
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_142: 1124662779
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_143: -680134504
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_144: 1118243339
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_145: 1311979871
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_146: 78723927
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_147: -506951558
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_148: -957394169
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_149: 112308899
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_15: -2058522400
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_150: -63642379
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_151: -480394036
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_152: 690569706
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_153: 299794527
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_154: -280701407
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_155: -851217005
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_156: -264215410
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_157: -2138572989
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_158: 1624236789
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_159: -1855393489
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_16: 1346930485
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_160: -1706882130
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_161: 1858110144
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_162: 1799421619
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_163: -1184289435
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_164: -1023510676
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_165: -740281640
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_166: 21241597
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_167: -1712581954
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_168: -1219758523
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_169: 1470770970
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_17: 476658679
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_170: -41805674
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_171: -2017674855
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_172: -2099496776
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_173: 528530372
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_174: 1722215063
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_175: 935991061
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_176: 543932778
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_177: -80144303
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_178: -40270838
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_179: -41010589
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_18: 1978471788
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_180: 295038375
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_181: -564224696
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_182: -124458624
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_183: -1715185589
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_184: -1969271629
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_185: -1723055012
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_186: 1022242310
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_187: -1024804252
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_188: 284868590
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_189: -1573968792
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_19: 182014164
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_190: 453715949
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_191: 1661457431
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_192: 1927958978
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_193: -425912152
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_194: 214689688
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_195: -2141858313
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_196: -1747228121
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_197: 1917063522
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_198: -2039462132
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_199: -372664838
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_2: 1169527997
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_20: -1617945694
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_200: -946740088
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_201: 86309339
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_202: 968778685
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_203: 1201555281
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_204: -163933049
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_205: 567436150
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_206: 749647188
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_207: -91491677
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_208: 961114611
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_209: -1098207588
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_21: -335751535
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_210: -189566396
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_211: 1943961504
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_212: -1251241385
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_213: 968285736
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_214: 485224880
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_215: -2072894032
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_216: -649237302
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_217: 1753260200
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_218: 1888188349
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_219: -66686224
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_22: -2061533439
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_220: -893884628
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_221: 1517927930
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_222: -1076509812
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_223: 214505489
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_224: 71389285
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_225: -257025336
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_226: -1832419397
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_227: -78530793
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_228: 19904119
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_229: 1482039526
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_23: -1453581462
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_230: -1003658252
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_231: 49664653
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_232: -1234544947
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_233: 1361843971
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_234: -2025749730
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_235: 337453853
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_236: -1249395200
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_237: -1869194178
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_238: -286462835
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_239: -417449547
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_24: -715414613
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_25: -826263977
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_26: -391032795
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_27: -311741625
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_28: 634142703
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_29: -420346949
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_3: -1683689850
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_30: -1397901938
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_31: -384036967
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_32: -1533816810
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_33: -1188199481
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_34: -1470058575
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_35: -1912532702
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_36: 1778668777
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_37: 718964820
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_38: -709963733
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_39: -1803396456
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_4: -849541414
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_40: 1837223088
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_41: 1302183379
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_42: -1702254304
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_43: 416555361
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_44: -680977418
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_45: 1758613977
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_46: 1748677913
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_47: 610233195
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_48: 1829597870
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_49: -1050900700
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_5: 2028203834
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_50: -1531721202
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_51: 1762287306
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_52: -1105247586
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_53: -150085529
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_54: 233291508
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_55: -164940944
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_56: -1613989124
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_57: -1972063204
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_58: 118358910
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_59: 320546994
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_6: -1991921934
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_60: -345798416
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_61: 667322677
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_62: -263613567
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_63: 1340533625
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_64: -1249717216
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_65: 920818996
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_66: 2043265429
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_67: -2052048347
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_68: 10814778
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_69: 503605354
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_7: -94505037
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_70: 1827235314
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_71: 997835486
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_72: 126581406
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_73: 1960064250
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_74: -1126614925
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_75: -196257063
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_76: -600704027
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_77: 1835829929
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_78: -1953371664
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_79: -1048091986
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_8: -1965818717
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_80: 1607020444
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_81: 2135557999
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_82: 1594550613
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_83: -199539240
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_84: 240653887
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_85: 1791384733
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_86: -344436121
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_87: -960022157
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_88: -412525720
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_89: 741208617
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_9: -1814173889
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_90: -1019728787
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_91: 1213403488
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_92: 402351232
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_93: -1809486246
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_94: 1253639945
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_95: -1134605639
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_96: 1735061179
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_97: 227971442
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_98: -220710837
+      Sega Genesis - Sonic & Knuckles - Tilesets - Mushroom Hill Zone (Summer)_99: -332993866
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
