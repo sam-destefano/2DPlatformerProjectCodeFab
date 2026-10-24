@@ -3,29 +3,29 @@ guid: 275eef97fdccffc46a1b22005f2af036
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5949748165877386021
-    second: RJump_0
+      213: 8454634662608343391
+    second: RJump 1_0
   - first:
-      213: -1547637932529503436
-    second: RJump_1
+      213: 8787120821900607384
+    second: RJump 1_1
   - first:
-      213: 8483213182425834124
-    second: RJump_2
+      213: -757198407504673556
+    second: RJump 1_2
   - first:
-      213: -8906419665248125380
-    second: RJump_3
+      213: 4527991574708531080
+    second: RJump 1_3
   - first:
-      213: 820121218066798551
-    second: RJump_4
+      213: 4617184475152553345
+    second: RJump 1_4
   - first:
-      213: -7832250767661777457
-    second: RJump_5
+      213: 194073347846958009
+    second: RJump 1_5
   - first:
-      213: 2001251279820640750
-    second: RJump_6
+      213: 5616359802151149511
+    second: RJump 1_6
   - first:
-      213: 6362519367708248970
-    second: RJump_7
+      213: 3311858261642077166
+    second: RJump 1_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -58,7 +58,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,7 +72,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -134,199 +134,177 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: RJump_0
+      name: RJump 1_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 64
-        width: 32
-        height: 32
+        y: 33
+        width: 28
+        height: 31
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 52b472a0f60c19250800000000000000
-      internalID: 5949748165877386021
+      spriteID: f51997a5e65e45570800000000000000
+      internalID: 8454634662608343391
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RJump_1
+      name: RJump 1_1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 64
-        width: 32
-        height: 32
+        x: 7
+        y: 63
+        width: 22
+        height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 433b8a6008fa58ae0800000000000000
-      internalID: -1547637932529503436
+      spriteID: 89ff2d3d4df12f970800000000000000
+      internalID: 8787120821900607384
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RJump_2
+      name: RJump 1_2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 64
-        width: 32
-        height: 32
+        x: 37
+        y: 63
+        width: 24
+        height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c822764817d6ab570800000000000000
-      internalID: 8483213182425834124
+      spriteID: ce441386f04ed75f0800000000000000
+      internalID: -757198407504673556
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RJump_3
+      name: RJump 1_3
       rect:
         serializedVersion: 2
-        x: 0
+        x: 38
+        y: 33
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fa67cc858a6de30800000000000000
+      internalID: 4527991574708531080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RJump 1_4
+      rect:
+        serializedVersion: 2
+        x: 65
         y: 32
-        width: 32
-        height: 32
+        width: 27
+        height: 64
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c3ef450b08a066480800000000000000
-      internalID: -8906419665248125380
+      spriteID: 1859ae731d8831040800000000000000
+      internalID: 4617184475152553345
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RJump_4
+      name: RJump 1_5
       rect:
         serializedVersion: 2
-        x: 32
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7d7d1a317e7a16b00800000000000000
-      internalID: 820121218066798551
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RJump_5
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fcd3db18c614e4390800000000000000
-      internalID: -7832250767661777457
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: RJump_6
-      rect:
-        serializedVersion: 2
-        x: 0
+        x: 7
         y: 0
-        width: 32
-        height: 32
+        width: 24
+        height: 30
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ee151089f6fd5cb10800000000000000
-      internalID: 2001251279820640750
+      spriteID: 9bbe9ce7eac71b200800000000000000
+      internalID: 194073347846958009
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RJump_7
+      name: RJump 1_6
       rect:
         serializedVersion: 2
-        x: 32
+        x: 38
         y: 0
-        width: 32
-        height: 32
+        width: 26
+        height: 22
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a8b0bc4a7a53c4850800000000000000
-      internalID: 6362519367708248970
+      spriteID: 7cf900abb7151fd40800000000000000
+      internalID: 5616359802151149511
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RJump_8
+      name: RJump 1_7
       rect:
         serializedVersion: 2
-        x: 64
+        x: 71
         y: 0
-        width: 32
-        height: 32
+        width: 24
+        height: 30
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 2aa72b61cbd416245802b9af14660e72
-      internalID: 255545614
+      spriteID: ee36e9fba8516fd20800000000000000
+      internalID: 3311858261642077166
       vertices: []
       indices: 
       edges: []
@@ -335,7 +313,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 916421f94c8706b44a6e837e25724559
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -343,19 +321,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      RJump_0: 5949748165877386021
-      RJump_1: -1547637932529503436
-      RJump_2: 8483213182425834124
-      RJump_3: -8906419665248125380
-      RJump_4: 820121218066798551
-      RJump_5: -7832250767661777457
-      RJump_6: 2001251279820640750
-      RJump_7: 6362519367708248970
-      RJump_8: 255545614
+      RJump 1_0: 8454634662608343391
+      RJump 1_1: 8787120821900607384
+      RJump 1_2: -757198407504673556
+      RJump 1_3: 4527991574708531080
+      RJump 1_4: 4617184475152553345
+      RJump 1_5: 194073347846958009
+      RJump 1_6: 5616359802151149511
+      RJump 1_7: 3311858261642077166
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
